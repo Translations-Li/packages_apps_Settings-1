@@ -73,8 +73,6 @@
     <string name="update_settings_title">YAAP 更新</string>
     <string name="update_settings_summary">检查ROM的最新版本</string>
 
-
-
     <!-- Radio Info -->
     <string name="radio_info_title">手机信号参数</string>
 
